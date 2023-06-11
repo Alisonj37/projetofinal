@@ -1,0 +1,59 @@
+button{
+    color: rgb(242, 238, 242);
+    text-align: center;
+    background-color: rgb(52, 5, 240);
+    width: 650px;
+    padding: 1px 30px 0px 1px;
+    border: 1px solid ;
+    border-radius: 15px;
+    margin-top: 0px;
+}
+
+img{
+    padding: 0px 0px 0px 0px;
+    width: 60px;
+    border: 3px solid ;
+    border-radius: 15px;
+    margin-left: 640px;
+
+}
+
+main{
+    display: flex;
+    align-items:  center;
+    flex-direction: column;
+    text-align: center;
+}
+
+
+.produitList{
+    width: 550px;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+.headerList{
+    color: rgb(224, 15, 15);
+    display: flex;
+    margin-left: 0px;
+    justify-content: center;
+}
+.produitDetails{
+    background-color: rgb(18, 18, 19);
+    color: bisque;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 15px;
+    margin-left: 5px;
+}
+
+.buttonEnd{
+    width: 550px;
+    background-color: rgb(52, 5, 240);
+    color: beige;
+    padding: 15px;
+    border: solid 1px rgb(52, 5, 240);
+    border-radius: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
